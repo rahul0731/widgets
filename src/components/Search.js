@@ -42,7 +42,7 @@ const Search = () => {
             className="ui button"
             href={`https://en.wikipedia.org?curid=${result.pageid}`}
           >
-            GO
+            Click 
           </a>
         </div>
         <div className="content">
